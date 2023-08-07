@@ -1,7 +1,7 @@
 # cross_section_momentum
 requirement : 
 python 3.9.17
-\\
+//
 yfinance 
 pandas 
 seaborn 
